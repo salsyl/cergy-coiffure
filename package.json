@@ -1,0 +1,19 @@
+{
+  "name": "cergy-coiffure",
+  "version": "1.0.0",
+  "description": "\"# cergy-coiffure\" \r …or create a new repository on the command line\r echo \"# cergy-coiffure\" >> README.md\r git init\r git add README.md\r git commit -m \"first commit\"\r git branch -M main\r git remote add origin git@github.com:salsyl/cergy-coiffure.git\r git push -u origin main\r …or push an existing repository from the command line\r git remote add origin git@github.com:salsyl/cergy-coiffure.git\r git branch -M main\r  /////////////////////////////////////////\r  Voici quelques éléments que vous pourriez prendre en compte pour optimiser l'indexation de votre site vitrine de coiffure afro à Cergy :",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salsyl/cergy-coiffure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salsyl/cergy-coiffure/issues"
+  },
+  "homepage": "https://github.com/salsyl/cergy-coiffure#readme"
+}
