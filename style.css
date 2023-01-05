@@ -16,9 +16,10 @@ body {
     font-size: 32px;
   }
   nav {
-    background-color: #eee;
+    background-color: rgb(27, 27, 27);
     padding: 10px;
     text-align: center;
+
   }
   nav ul {
     list-style: none;
@@ -30,9 +31,9 @@ body {
     display: inline-block;
     margin-right: 20px;
   }
-  nav a {
+  p, a {
     text-decoration: none;
-    color: #333;
+    color: rgb(108, 176, 240);
   }
   main {
     padding: 20px;
